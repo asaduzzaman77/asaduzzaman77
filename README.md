@@ -1,4 +1,44 @@
+### Hi there 👋, This is Md. Asaduzzaman
+#### CSE Engineer || Web Developer || JavaScript ||
+<p>
+My name is Md. Asaduzzaman and I am agile, self-motivated, honest, and hard-working person.
+I have extensive experience in front-end development .
+</p>
 
+My skill set includes  HTML, CSS.
+
+I am also familiar with Python.
+
+In terms of databases, I have experience with MySQL.
+
+For hosting, I am familiar with Github and Netlify.
+
+My passion is frontend web development, and I am always trying to update my skills with the latest technology. I can work efficiently within short timeframes without losing patience until the job is successfully completed.
+
+Top skills
+HTML • CSS • JavaScript •
+
+You can reach me at 
+
+ashaduzzamanangur2001@gmail.com
+
+My GitHub profile is https://github.com/asaduzzaman77
+
+Thank you for your time and consideration.
+
+Sincerely,
+Md. Asaduzzaman
+
+ #frontend
+
+- 🔭 I’m currently working on Frontend Development 
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with frontend web Development 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Email: ashaduzzamanangur2001@gmail.com 
+- 😄 Pronouns: @asaduzzaman 
+- ⚡ Fun fact: #developing 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angur.asaduzzaman/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_angur/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-asaduzzaman-38543a1a2/) 
 
