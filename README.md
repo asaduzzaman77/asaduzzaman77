@@ -2,11 +2,6 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.asaduzzaman15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.asaduzzaman15" height="30" width="40" /></a>
-</p>
-
 #### CSE Engineer || Web Developer || JavaScript ||
 <p>
 My name is Md. Asaduzzaman and I am agile, self-motivated, honest, and hard-working person.
