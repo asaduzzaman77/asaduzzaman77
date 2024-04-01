@@ -46,7 +46,7 @@ Md. Asaduzzaman
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angur.asaduzzaman/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_angur/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-asaduzzaman-38543a1a2/) 
 
 
-
+<h2> BLOG POSTS: </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asaduzzaman77" alt="asaduzzaman77" /></a> </p>
 
 # 💻 Tech Stack:
